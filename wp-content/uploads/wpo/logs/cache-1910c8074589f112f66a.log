@@ -1,0 +1,21 @@
+[2025-08-24 07:39:38 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-08-24 07:42:42 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-08-25 18:41:58 : INFO] - Cache for URL: http://chouet-bike-club.local/ has been purged, triggered by action: save_post 
+[2025-08-25 18:41:58 : INFO] - Cache for author page URL: http://chouet-bike-club.local/author/admin/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2025-08-25 18:41:58 : INFO] - Cache for URL: http://chouet-bike-club.local/ has been purged, triggered by action: save_post 
+[2025-08-25 18:41:58 : INFO] - Cache for author page URL: http://chouet-bike-club.local/author/admin/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2025-08-25 18:41:58 : INFO] - Cache for URL: http://chouet-bike-club.local/ has been purged, triggered by action: save_post 
+[2025-08-25 18:41:58 : INFO] - Cache for author page URL: http://chouet-bike-club.local/author/admin/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2025-08-25 18:51:20 : INFO] - Cache for URL: http://chouet-bike-club.local/ has been purged, triggered by action: save_post 
+[2025-08-25 18:51:20 : INFO] - Cache for author page URL: http://chouet-bike-club.local/author/admin/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2025-08-25 18:51:20 : INFO] - Cache for URL: http://chouet-bike-club.local/ has been purged, triggered by action: save_post 
+[2025-08-25 18:51:20 : INFO] - Cache for author page URL: http://chouet-bike-club.local/author/admin/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2025-08-25 18:51:20 : INFO] - Cache for URL: http://chouet-bike-club.local/ has been purged, triggered by action: save_post 
+[2025-08-25 18:51:20 : INFO] - Cache for author page URL: http://chouet-bike-club.local/author/admin/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2025-08-25 18:53:02 : INFO] - Cache for author page URL: http://chouet-bike-club.local/author/admin/ associated with post_type: wpforms and Title: "Contact Form" has been purged, triggered by action: save_post 
+[2025-08-25 19:35:01 : INFO] - Cache for URL: http://chouet-bike-club.local/ has been purged, triggered by action: save_post 
+[2025-08-25 19:35:01 : INFO] - Cache for author page URL: http://chouet-bike-club.local/author/admin/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2025-08-25 19:35:01 : INFO] - Cache for URL: http://chouet-bike-club.local/ has been purged, triggered by action: save_post 
+[2025-08-25 19:35:01 : INFO] - Cache for author page URL: http://chouet-bike-club.local/author/admin/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2025-08-25 19:35:01 : INFO] - Cache for URL: http://chouet-bike-club.local/ has been purged, triggered by action: save_post 
+[2025-08-25 19:35:01 : INFO] - Cache for author page URL: http://chouet-bike-club.local/author/admin/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
